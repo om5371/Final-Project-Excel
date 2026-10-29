@@ -122,7 +122,11 @@ Summarise findings in the **Report** sheet:
 5. **What next?** Recommendations from What-If and regression results
 
 
+---
+## 🎬 Project Demonstration
+  <a href="">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
+  </a>
+</p>
 
 ---
-
-<div align="center">⭐ If you found this useful, give it a star!</div>
